@@ -1,0 +1,15 @@
+body{
+    background-color: wheat;
+}
+p{
+    padding: 5px 10px;
+    margin: 20px 15px 20px 15px;
+    border: 10px;
+    border-style: solid;
+    border-color: rgb(26, 182, 26);
+    background-color: rgb(141, 235, 238);
+}
+
+figure{
+    position: static;
+}
