@@ -5,6 +5,8 @@ body{
         'header header header'
         'main main aside'
         'footer footer footer';
+        margin: 0px;
+        
 }
 p{
     padding: 5px 10px;
@@ -37,7 +39,6 @@ section-article:nth-child(1){
     grid-row: 1/2;
 }
 
-}
 ASIDE{
     background-color: bisque;
     grid-area: aside;
